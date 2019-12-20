@@ -1,3 +1,12 @@
 body{
   background-color: aqua;
 }
+
+table    {
+  border: 2px outset aqua;
+  border-radius: 8px;
+}
+td {
+  background-color: #cccc00;
+  padding: 5px;
+}
